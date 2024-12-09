@@ -1,0 +1,26 @@
+.box{
+    height: 200px;
+    background-color: blueviolet;
+    margin-top: 200px;
+}
+.box-ch{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+.box1{
+    height: 200px;
+    background-color: blueviolet;
+    margin-top: 200px;
+}
+.box-ch1{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
