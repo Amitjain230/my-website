@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.my1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    border: 10px solid;
+}
+.my1 ul{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    gap: 40px;
+    list-style: none;
+}
+.my2{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    background-color: lightyellow;
+    
+}
+
+#my1{
+    background-color: tomato;
+}
+.my2 nav a div{
+    text-decoration: none;
+}

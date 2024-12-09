@@ -1,0 +1,22 @@
+.head1::first-letter{
+    color: blueviolet;
+    font-size: 50px;
+}
+p::first-line{
+    color: brown;
+    text-decoration: underline;
+}
+.head2::before{
+        content: "Amit ";
+        color: red;
+}
+.head2::after{
+    content: " Jain";
+}
+input::placeholder{
+    color: darkblue;
+}
+.head1::selection{
+    background-color: pink;
+    color: black;
+}
