@@ -1,0 +1,127 @@
+.body{
+    font-family: Inter, Arial, Helvetica, sans-serif
+}
+.navbar{
+    background-color: black;
+    height: 100px;
+}
+.div{
+    display: flex;
+    margin-left: 150px;
+}
+.navbar p{
+    color: white;
+}
+.button{
+    margin-top: 15px;
+    margin-left: 10px;
+   
+}
+.yes,.no{
+    border-radius: 10px;
+}
+.para p{
+    margin-top: -15px;
+    font-size: 14px;
+    margin-left: 150px;
+}
+.num p{
+    color: white;
+    margin-top: -5px;
+    margin-left: 20px;
+}
+.num i{
+    margin-left: 210px;
+    margin-right: -20px;
+}
+.num{
+    display: flex;
+}
+.select{
+    margin-left: 20px;
+
+}
+.world i{
+    margin-left: 500px;
+    
+}
+
+.img{
+ margin-left: 300px;
+ margin-top: -10px;
+ display: flex;
+ 
+}
+.img p{
+   margin-top: -10px;
+   margin-left: 5px;
+}
+.join{
+    margin-left: 20px;
+    margin-bottom: 190px;
+    margin-top: -20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.sign{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 20px;
+    margin-bottom: 190px;
+    margin-top: -20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+}
+.img33 {
+    display: flex;
+    justify-content: space-around;
+}
+.img33 ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap: 50px; 
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: -90px;
+    color: rgb(81, 76, 76);
+    font-family: Inter, Arial, Helvetica, sans-serif
+}
+.img3 li:hover{
+ color: black;  
+}
+
+.img33 img{
+    margin-left: -10px;
+    margin-top: 20px;
+} 
+.book1{
+    background-color: #216245;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: -10px;
+    margin-top: 10px;
+    padding-bottom: -10px;
+    margin-left: -50px;
+    border-radius: 5px;
+    font-style: 15px;
+}
+.ul li:hover{
+    text-decoration: underline;
+}
+.earn{
+    margin-left: 480px;
+}
+
+
+
